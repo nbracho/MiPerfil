@@ -31,7 +31,7 @@ lo necesario para desplegar un sitio totalmente funcional y seguro.
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./NicoProfile1.jpg"
+            src="./NicoProfile3.jpg"
           />
         </div>
       </div>
