@@ -15,6 +15,15 @@ export const projects = [
       image: "./aimeandroid.png",
       link: "https://play.google.com/store/apps/details?id=com.nbasoft.AimeConVos&hl=es_VE&gl=US",
     }
+    ,
+    {
+      title: "Cafil.mx",
+      subtitle: "Wordpress - PHP - Laravel",
+      description:
+        "Integracion de Wordpress Con el PLugin Paid Membership Pro, Pasarela de Pago Stripe y Creacion de Recibos y Facturas Con Facturapi Ciudad de Mexico",
+      image: "./cafil.mx2.png",
+      link: "https://cafil.mx",
+    }
   ];
 
   export const skills = ["Mysql", "WordPress",
@@ -25,6 +34,7 @@ export const projects = [
      "React Js",
      "Router Os (Mikrotik)",
      "Sqlmap",
+     "Nmap",
      "Telegram Bots",
-     "Python"
+     "Python","Facturapi","Stripe"
   ];
