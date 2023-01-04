@@ -23,7 +23,31 @@ export const projects = [
         "Integracion de Wordpress Con el PLugin Paid Membership Pro, Pasarela de Pago Stripe y Creacion de Recibos y Facturas Con Facturapi Ciudad de Mexico",
       image: "./cafil.mx2.png",
       link: "https://cafil.mx",
-    }
+    },
+     {
+      title: "viaporte.com.mx",
+      subtitle: "Wordpress - Elementor",
+      description:
+        "Sitio Web Diseñado Con Elementor",
+      image: "./viaporte.png",
+      link: "https://viaporte.com.mx/",
+    },
+     {
+      title: "transportepejecutivo.com.mx",
+      subtitle: "Wordpress - Elementor",
+      description:
+        "Sitio Web Diseñado Con Elementor",
+      image: "./transportepejecutivo.png",
+      link: "https://transportepejecutivo.com.mx/",
+    } ,
+     {
+      title: "viptoursviajes.com",
+      subtitle: "Wordpress - Elementor",
+      description:
+        "Sitio Web Diseñado Con Elementor",
+      image: "./viptours.png",
+      link: "https://viptoursviajes.com/",
+    }     
   ];
 
   export const skills = ["Mysql", "WordPress",
