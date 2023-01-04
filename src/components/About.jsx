@@ -6,13 +6,13 @@ export default function About() {
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Hola, soy Nicolas
-            <br className="hidden lg:inline-block" />Me encanta construir aplicaciones web.
+            Bienvenido a Mi Perfil Online
+            <br className="hidden lg:inline-block" />Aqui Veras Algunos de Mis Trabajos.
           </h1>
           <p className="mb-8 leading-relaxed">
-Soy Ingeniero en Informatica Egresado de la Universidad Rafael Belloso Chacin en el 2015, Me especializo en el desarrollo de Aplicaciones Web Con Laravel, Mysql y Javascript
+Soy Ingeniero en Informatica Egresado de la Universidad Rafael Belloso Chacin en el año 2015, Me especializo en el desarrollo de Aplicaciones Web Con Laravel, Mysql y Javascript
 Tengo Conocimientos Basicos de Desarrollo de Aplicaciones en Android y tambien manejo concimientos intermedios en Linux server, Junto con Apache 
-lo necesario para desplegar un sitio totalmente funcional y seguro.
+lo necesario para desplegar un sitio totalmente funcional y seguro, tambien contruyo y perosnalizo sitios desde cero para empresas en wordpress, bien sean para ecommerce como para tener presencia en la web.
           </p>
           <div className="flex justify-center">
             <a
