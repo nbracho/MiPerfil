@@ -28,7 +28,7 @@ export const projects = [
       title: "viaporte.com.mx",
       subtitle: "Wordpress - Elementor",
       description:
-        "Sitio Web Diseñado Con Elementor",
+        "Sitio Web Diseñado Con Elementor, Optimizado para rendimiento con wprocket y SEO Basico para Motores de Busqueda ",
       image: "./viaporte.png",
       link: "https://viaporte.com.mx/",
     },
@@ -36,7 +36,7 @@ export const projects = [
       title: "transportepejecutivo.com.mx",
       subtitle: "Wordpress - Elementor",
       description:
-        "Sitio Web Diseñado Con Elementor",
+        "Sitio Web Diseñado Con Elementor, Optimizado para rendimiento con wprocket y SEO Basico para Motores de Busqueda ",
       image: "./transportepejecutivo.png",
       link: "https://transportepejecutivo.com.mx/",
     } ,
@@ -44,7 +44,7 @@ export const projects = [
       title: "viptoursviajes.com",
       subtitle: "Wordpress - Elementor",
       description:
-        "Sitio Web Diseñado Con Elementor",
+        "Sitio Web Diseñado Con Elementor, Optimizado para rendimiento con wprocket y SEO Basico para Motores de Busqueda ",
       image: "./viptours.png",
       link: "https://viptoursviajes.com/",
     }     
