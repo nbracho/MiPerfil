@@ -12,7 +12,7 @@ export default function About() {
           <p className="mb-8 leading-relaxed">
 Hola, Mi Nombre es Nicolas Bracho Soy Ingeniero en Informatica Egresado de la Universidad Rafael Belloso Chacin en el año 2015, Me especializo en el desarrollo de Aplicaciones Web Con Laravel, Mysql y Javascript
 Tengo Conocimientos Basicos de Desarrollo de Aplicaciones en Android y tambien manejo concimientos intermedios en Linux server, Junto con Apache 
-lo necesario para desplegar un sitio totalmente funcional y seguro, tambien contruyo y perosnalizo sitios desde cero para empresas en wordpress, bien sean para ecommerce como para tener presencia en la web.
+lo necesario para desplegar un sitio totalmente funcional y seguro, tambien construyo y personalizo sitios desde cero para empresas en wordpress, bien sean para ecommerce como para solo tener presencia en la web.
           </p>
           <div className="flex justify-center">
             <a

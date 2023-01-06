@@ -13,7 +13,7 @@ export default function Skills() {
             Habilidades y Tecnologías
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-Estoy Relacionado con Todas estas Tecnologias en Niveles de Intermedio a Avanzado.
+Manejamos Todas estas Tecnologias en Niveles de Intermedio a Avanzado.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
