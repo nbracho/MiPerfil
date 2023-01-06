@@ -16,9 +16,9 @@ lo necesario para desplegar un sitio totalmente funcional y seguro, tambien cons
           </p>
           <div className="flex justify-center">
             <a
-              href="#contact"
+              href="https://api.whatsapp.com/send?phone=584126530985&text=Hola%20Quiero%20Informacion%20Sobre%20Sus%20Servicios"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Trabaja conmigo
+              Escribenos Al Whatsapp
             </a>
             <a
               href="#projects"
