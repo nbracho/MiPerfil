@@ -61,18 +61,13 @@ function encode(data) {
             </div>
           </div>
         </div>
-        <h2>
-            ¡Contrátanos!
-          </h2>
-          <p className="leading-relaxed mb-5">
-Envia una Solicitud de Contacto
-          </p>
-               
-      </div>
                 <a href="https://api.whatsapp.com/send?phone=584126530985&text=Hola%20Quiero%20Informacion%20Sobre%20Sus%20Servicios"
             className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
             Enviar Mensaje
             </a>
+               
+      </div>
+
     </section>
             
   );
